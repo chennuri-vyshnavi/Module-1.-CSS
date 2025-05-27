@@ -66,9 +66,9 @@ A responsive HTML5 and CSS3-based portal designed to showcase local community ev
 
 ## 🚀 Getting Started
 
-1. **Clone or download** this repository.https://github.com/AmruthaChandana/Module-1-CSS.git
+1. **Clone or download** this repository.https://github.com/chennuri-vyshnavi/Module-1.-CSS.git
 2. Open `index.html` in your browser.
-3. Ensure the background image `community-bg.jpg` is in the same folder.
+3. Ensure the background image `community.png` is in the same folder.
 
 ---
 
